@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kkGan
-- 👀 I’m interested in web design
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning: React.js
 
 <!---
